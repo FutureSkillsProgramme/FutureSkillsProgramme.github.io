@@ -3312,6 +3312,11 @@ input, select, textarea {
 		}
 
 /* Wrapper */
+.Button_Wrapper {
+    text-align: center;
+}
+
+
 
 	#wrapper > * > .inner {
 		width: 100%;
